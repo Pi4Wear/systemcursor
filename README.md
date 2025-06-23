@@ -1,4 +1,4 @@
-# Pro AI Completer
+# System Cursor
 
 This is an experimental, system-wide, context-aware AI text completion tool. It's designed to explore how AI can be present everywhere on your PC, providing intelligent suggestions in any application you use.
 
