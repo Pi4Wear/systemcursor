@@ -8,14 +8,7 @@ It uses Google's Gemini 1.5 Flash model to understand not just your text, but al
 
 See the Pro AI Completer in action:
 
-<div align="center">
-  <video width="800" controls>
-    <source src="https://github.com/user-attachments/assets/system_cursor_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-*Watch how the AI provides context-aware suggestions across different applications by understanding both your text and visual context.*
+https://github.com/user-attachments/assets/5b04e614-3832-4106-bce4-30bdf667c317
 
 ## 🚀 The Vision: AI That Follows You
 
@@ -83,6 +76,10 @@ Imagine AI that:
 - Works seamlessly across every application you use
 
 **We're not just building a completion tool—we're prototyping the future of human-AI interaction.**
+
+
+
+
 
 ## Features
 
