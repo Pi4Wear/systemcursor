@@ -4,6 +4,14 @@ This is an experimental, system-wide, context-aware AI text completion tool. It'
 
 It uses Google's Gemini 1.5 Flash model to understand not just your text, but also your visual context through screenshots, to provide more accurate and relevant completions.
 
+## 🎬 Demo
+
+See the Pro AI Completer in action:
+
+https://github.com/user-attachments/assets/system_cursor_demo.mp4
+
+*Watch how the AI provides context-aware suggestions across different applications by understanding both your text and visual context.*
+
 ## 🚀 The Vision: AI That Follows You
 
 **This project represents a fundamental shift in how we interact with AI.**
