@@ -1,0 +1,7 @@
+google-generativeai
+pynput
+Pillow
+pyscreenshot
+pydantic
+pydantic-settings
+pytesseract 
